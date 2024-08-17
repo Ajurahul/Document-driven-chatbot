@@ -13,7 +13,11 @@ tokenizer = GPT2Tokenizer.from_pretrained('./gpt2-finetuned')
 def generate_response(prompt, model, tokenizer):
     inputs = tokenizer.encode(prompt, return_tensors='pt')
     outputs = model.generate(inputs, max_length=150, do_sample=True, top_k=30, top_p=0.7)
-    return tokenizer.decode(outputs[0], skip_special_tokens=True)
+    generated_text = tokenizer.decode(outputs[0], skip_special_tokens=True)
+
+    # Remove the prompt from the generated text
+    response = generated_text.split("Response:")[1].strip() if "Response:" in generated_text else generated_text
+    return response
 
 
 @app.route("/generate", methods=["POST"])
