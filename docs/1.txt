@@ -1,0 +1,47 @@
+Overview
+The Income and Tax Calculator service enables both registered and unregistered e-Filing users to calculate tax as per the provisions of Income Tax Act, Income-tax rules, Notifications etc. by providing inputs with respect to income(s) earned and deductions claimed as per the Act. This service also provides a calculation of tax under the old or new tax regime with a comparison of tax as per the old and new regime.
+
+Prerequisites to Avail This Service
+•    Access to the e-Filing portal
+
+Step-by-Step Guide
+Step 1: Go to the e-Filing portal homepage.
+
+img 1
+
+Step 2: Select Quick Links > Income and Tax Calculator. (Select the quick link in the image to show where is the calculator) (No access to UAT/SIT currently, will have to add it later)
+
+You will be taken to the Income and Tax Calculator page. There are two tabs – Basic Calculator and Advanced Calculator. The Basic Calculator tab is selected by default.
+
+IMG 2
+
+Step 3a: In the Basic Calculator tab, enter the required details such as AY, taxpayer category, age, residential status, total annual income and total deductions. The tax calculation as per the details entered by you will appear in the Tax Summary section.
+
+IMG 3
+
+Note: Click View Comparison to get a more detailed comparison of tax under the old and new tax regime.
+
+IMG 4
+
+
+
+IMG 5
+
+
+Step 3b: In the Advanced Calculator tab, enter the following details:
+
+Preferred tax regime, AY, taxpayer category, age, residential status, due date and actual date of submission of return.
+
+Under Details for Income and tax calculation, enter the required details of:
+Income under the head Salaries,
+Income under the head House Property,
+Income under the head Capital Gains,
+Income under the head Business or Profession, and
+Income under the head Other Sources. (what details are required?) – (entered)
+Under Deduction Details, enter the relevant deductions applicable to you, including but not limited to PPF, LIC, Housing Loan, NPS, Mediclaim, Loan on Higher Education. (what details are required?) – (entered)
+
+Under Taxable Income, enter or edit the TDS/TCS details where you have substantiating evidence available.
+
+New
+
+The total tax and interest payable by you will be displayed at the end of the page.

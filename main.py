@@ -9,7 +9,7 @@ model = GPT2LMHeadModel.from_pretrained('gpt2')
 
 def create_dataset(docs, tokenizer):
     texts = "\n\n".join(docs)
-    with open("temp_texts.txt", "w") as f:
+    with open("temp_texts.txt", "w", encoding="utf-8") as f:
         f.write(texts)
     dataset = TextDataset(tokenizer=tokenizer, file_path="temp_texts.txt", block_size=128)
     return dataset

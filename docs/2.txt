@@ -1,0 +1,191 @@
+What is Income Tax Calculator?
+The Income tax calculator is an easy-to-use online tool that helps you estimate your taxes based on your income after the Union Budget is presented. We have updated our tool in line with the income tax changes proposed in the Union Budget 2024-25.(Read the highlights here)
+
+How to use the Income tax calculator for FY 2024-25 (AY 2025-26)?
+Following are the steps to use the tax calculator:
+1. Choose the financial year for which you want your taxes to be calculated.
+
+2. Select your age accordingly. Tax liability in India differs based on the age groups.
+
+3. Click on 'Go to Next Step'
+
+4. Enter your taxable salary i.e. salary after deducting various exemptions such as HRA, LTA and so on. (if you want to know your tax liability under the old tax slabs)
+
+Or else, just enter your salary i.e salary without availing exemptions such as HRA, LTA, professional tax and so on. (if you want to know your tax liability under the new tax slabs)
+
+5. Along with taxable salary, you must enter other details such as interest income, rental income, interest paid on home loan for rented, and interest paid on loan for self occupied property.
+
+6. For Income from Digital Assets, enter the net income ( Sale consideration less Cost of Acquisition), such income is taxed at 30% Plus applicable surcharge and cess.
+
+7. Click on 'Go to Next Step' again.
+
+8. In case, you want to calculate your taxes under the old tax slabs,you will have to enter your tax saving investments under section 80C, 80D, 80G, 80E and 80TTA.
+
+9. Click on 'Calculate' to get your tax liability. You will also be able to see a comparison of your pre-budget and post-budget tax liability (old tax slabs and new tax slabs).
+
+Note: Whichever field is not applicable, you can enter "0".
+
+You can even get your tax computation on your mail.
+
+Don't fall behind your taxes!
+With ClearTax's 3-step filing, get your taxes done early and enjoy peace of mind.
+File Now
+Use BUDGET70 for flat 70% Off
+How to calculate income tax? (See example)
+Income tax calculation for the Salaried
+
+Income from salary is the sum of Basic salary + HRA + Special Allowance + Transport Allowance + any other allowance. Some components of your salary are exempt from tax, such as telephone bills reimbursement, leave travel allowance. If you receive HRA and live on rent, you can claim exemption on HRA. Calculate exempt portion of HRA, by using this HRA Calculator.
+
+On top of these exemptions, a standard deduction of 50,000 is available in both old and new regimes. This has been increased to Rs. 75,000 in Latest Budget 2024 only for New Regime
+
+In case you opt for the new tax regime, these exemptions will not be available to you.
+
+Let's understand income tax calculation under the current tax slabs and new tax slabs (optional) by way of an example. Neha receives a Basic Salary of Rs 1,00,000 per month. HRA of Rs 50,000. Special Allowance of Rs 21,000 per month. LTA of Rs 20,000 annually. Neha pays a rent of Rs 40,000 and lives in Delhi.
+
+Nature	Amount	Exemption/Deduction	Taxable(Old regime)	Taxable(New regime)
+Basic Salary	12,00,000	-	12,00,000	12,00,000
+HRA	6,00,000	3,60,000	2,40,000	6,00,000
+Special Allowance	2,52,000	-	2,52,000	2,52,000
+LTA	20,000	12,000 (bills submitted)	8,000	20,000
+Standard Deduction	-	50,000	50,000	75,000
+Gross Total Income from Salary			16,50,000	19,97,000
+To calculate Income tax, include income from all sources. Include:
+
+Income from Salary (salary paid by your employer)
+Income from house property (add any rental income, or include interest paid on home loan)
+Income from capital gains (income from sale purchase of shares or house)
+Income from business/profession (income from freelancing or a business or profession)
+Income from other sources (saving account interest income, fixed deposit interest income, interest income from bonds)
+
+Neha has income from interest from savings account of Rs 8,000 and a fixed deposit interest income of Rs 12,000 during the year. Neha has made some investments to save income tax. PPF investment of Rs 50,000. ELSS purchase of Rs 20,000 during the year. LIC premium of Rs 8,000. Medical insurance paid of Rs 12,000. Here are the deductions Neha can claim under the old tax regime.
+
+Nature	Maximum Deduction	Eligible investments/expenses	Amount claimed by Neha
+Section 80C	Rs.1,50,000	PPF deposit Rs 50,000, ELSS investment Rs 20,000, LIC premium Rs 8,000. EPF deducted by employer(Neha’s contribution) = Rs 1,00,000 *12% *12 = 1,44,000	Rs 1,50,000
+Section 80D	Rs 25,000 for self Rs 50,000 for parents	Medical insurance premium Rs 12,000	Rs 12,000
+Section 80TTA	10,000	Savings account interest 8,000	Rs. 8,000
+Don't fall behind your taxes!
+With ClearTax's 3-step filing, get your taxes done early and enjoy peace of mind.
+File Now
+Use BUDGET70 for flat 70% Off
+Calculation of gross taxable income in India (Old regime)
+
+Nature	Amount	Total
+Income from Salary	16,50,000
+Income from Other Sources	20,000
+Gross Total Income		16,70,000
+Deductions
+80C	1,50,000
+80D	12,000	-
+80TTA	8,000	1,70,000
+Gross Taxable Income		15,00,000
+Total tax on above (including cess)		2,73,000
+Calculation of gross taxable income in India (New regime)
+
+Nature	Amount	Total
+Income from Salary	19,97,000
+Income from Other Sources	20,000
+Gross Total Income		20,17,000
+Total tax on above (including cess)		3,06,904
+This is how income tax has been calculated for Neha under the new tax regime
+
+Up to Rs 3,00,000	Exempt from tax	0
+Rs 3,00,000 to Rs 7,00,000	5% (5% of Rs 7,00,000 less Rs 3,00,000)	20,000
+Rs 7,00,000 to Rs 10,00,000	10% (10% of Rs 10,00,000 less Rs 7,00,000)	30,000
+Rs 10,00,000 to Rs 12,00,000	15% (15% of Rs 12,00,000 less Rs 10,00,000)	30,000
+Rs 12,00,000 to Rs 15,00,000	20% (20% of Rs 15,00,000 less Rs 12,00,000)	60,000
+More than Rs Rs 15,00,000	30% (30% of Rs 20,17,000 less Rs 15,00,000)	1,55,100
+Cess	4% of total tax (4% of Rs 20,000 + Rs 30,000+ Rs 30,000 + Rs 60,000 + Rs 1,55,100)	11,804
+Total Income Tax	Rs 20,000 + Rs 30,000+ Rs 30,000 + Rs 60,000 + Rs 1,55,100 + Rs 11,804	Rs 3,06,904
+What are the exemptions/ deductions that are disallowed under the new tax regime?
+
+Individual or HUF opting for taxation under the newly inserted section 115BAC of the Act shall not be entitled to the following exemptions/deductions:
+
+(i) Leave travel concession as contained in clause (5) of section 10;
+
+(ii) House rent allowance as contained in clause (13A) of section 10;
+
+(iii) Some of the allowance as contained in clause (14) of section 10;
+
+(iv) Allowances to MPs/MLAs as contained in clause (17) of section 10;
+
+(v) Allowance for the income of minor as contained in clause (32) of section 10;
+
+(vi) Exemption for SEZ unit contained in section 10AA;
+
+(vii) Deduction for entertainment allowance and employment/professional tax as contained in section 16;
+
+(viii) Interest under section 24 in respect of self-occupied or vacant property referred to in sub-section (2) of section 23. (Loss under the head income from house property for the rented house shall not be allowed to be set off under any other head and would be allowed tobe carried forward as per extant law);
+
+(ix) Additional deprecation under clause (iia) of sub-section (1) of section 32;
+
+(x) Deductions under section 32AD, 33AB, 33ABA;
+
+(xi) Various deduction for donation for or expenditure on scientific research contained in sub-clause (ii) or sub-clause (iia) or sub-clause (iii) of sub-section (1) or sub-section (2AA) of section 35;
+
+(xii) Deduction under section 35AD or section 35CCC;
+
+(xiii) Deduction from family pension under clause (iia) of section 57;
+
+(xiv) Any deduction under chapter VIA (like section 80C, 80CCC, 80CCD, 80D, 80DD, 80DDB, 80E, 80EE, 80EEA, 80EEB, 80G, 80GG, 80GGA, 80GGC, 80IA, 80-IAB, 80-IAC, 80-IB, 80-IBA, etc). However, deduction under sub-section (2) of section 80CCD (employer contribution on account of the employee in notified pension scheme) and section 80JJAA (for new employment) can be claimed.
+
+Following allowances shall be allowed as notified under section 10(14) of the Act to the Individual or HUF exercising option under the proposed section:
+
+a) Transport Allowance granted to a divyang employee to meet the expenditure for the purpose of commuting between place of residence and place of duty
+
+b) Conveyance Allowance granted to meet the expenditure on conveyance in performance of duties of an office;
+
+c) Any Allowance granted to meet the cost of travel on tour or on transfer;
+
+d) Daily Allowance to meet the ordinary daily charges incurred by an employee on account of absence from his normal place of duty.
+
+Don't fall behind your taxes!
+With ClearTax's 3-step filing, get your taxes done early and enjoy peace of mind.
+File Now
+Use BUDGET70 for flat 70% Off
+Frequently Asked Questions ( FAQ’s )
+How much tax should I pay on my salary in New Regime?
+
+You will be required to pay a tax depending on the income slab you belong to.
+
+Income Tax Rates applicable for individuals under 60 years of age in case of new regime
+Income Slab	Applicable Tax Rate
+Up to Rs 3 lakh	Nil
+Above Rs 3 lakh and up to Rs 7 lakh	5%
+Above Rs 7 lakh and up to Rs 10 lakh	10%
+Above Rs 10 lakh and up to Rs 12 lakh	15%
+Above Rs 12 lakh and up to Rs 15 lakh	20%
+Above Rs 15 lakh	30%
+Suppose you have a taxable income of Rs 9 lakh, your tax will be calculated as follows:
+
+Income Slab	Applicable Tax Rate	Applicable Income	Tax (in Rs)
+Up to Rs 3 lakh	No tax	0	0
+Above Rs 3 lakh and up to Rs 7 lakh	5%	Rs 4 lakhs	20,000
+Above Rs 7 lakh and up to Rs 10 lakh	10%	Rs 2 lakhs	20,000
+Total Income Tax Payable			40,000
+Hence, you will be required to pay a tax of Rs 20,000 (excluding cess) on your taxable income i.e. Rs 9 lakhs.
+
+What is the maximum non-taxable income limit?
+
+In the case of the old regime, The maximum limit of non-taxable income for an individual was set at Rs 2.5 lakh. However, you can also get a rebate of Rs 2,500 under section 87A if you have a total income of up to Rs 3.5 lacs for FY 2018-19. From FY 2019-20 onwards, the rebate has been increased to Rs 12,500 for an income up to Rs 5 lakh. So, that means an individual earning up to 5 lakh will not be required to pay any income tax from FY 2019-20 onwards. If you have tax saving investments under section 80C of up to Rs 1.5 lakh then you will not have to pay any taxes till Rs 6.5 lakhs
+
+In the budget 2023, In case of New Regime, The maximum limit of non-taxable income for an individual is set at Rs 3 lakh. However, you can also get a rebate of Rs 25000 under section 87A if you have a total income of up to Rs 7 lacs for FY 2023-24. So, that means an individual earning up to 7 lakh will not be required to pay any income tax from FY 2023-24 onwards. However, in the case of the old regime, the limit for rebate under section 87A is still 5 lakhs.
+
+Does everyone have to file their income tax returns?
+
+If the income of an individual is below the basic exemption limit then he is not required to file income tax returns. Though those who have income less than Rs 2.5L(old regime) or 3L(New Regime) and want to claim an income tax refund can only claim the refund by filing an ITR. Otherwise, it is mandatory to file income tax returns in any other case.
+
+Does the income tax calculator calculate for TDS?
+
+No, the income tax calculator does not compute the Tax Deducted at Source (TDS). However, it calculates your tax liability for the assessment year.
+
+What are the details you need when you're e-filing your income tax returns?
+
+1. Basic information such as PAN, Aadhar Card details, and current address.
+
+2. All the bank account details held in a financial year.
+
+3. Income proofs like current salary details, income from investments (like FDs, savings bank account) etc.
+
+4. All the deductions claimed under Section 80 or Chapter VI-A.
+
+5. Tax payment details such as TDS and advance tax payments.
